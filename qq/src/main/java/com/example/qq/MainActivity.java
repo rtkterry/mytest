@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         Log.d("QQ==>","GIT_TEST1");
         Log.d("QQ==>","GIT_TEST2");
+		Log.d("QQ==>","GIT_TEST3");
     }
 
     @Override
