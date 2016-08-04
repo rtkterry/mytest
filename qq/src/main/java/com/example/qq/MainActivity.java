@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()){
             case R.id.Abtn:
                 savedata(edit.getText().toString(),send_left);
-                edit.setText("");
+                edit.setText("defualt");
                 break;
 
             case R.id.Bbtn:
