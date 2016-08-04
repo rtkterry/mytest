@@ -58,6 +58,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         adapter = new Myadapter();
         list_item.setAdapter(adapter);
         Log.d("QQ==>","GIT_TEST");
+
+        Log.d("QQ==>","GIT_TEST1");
+        Log.d("QQ==>","GIT_TEST2");
     }
 
     @Override
