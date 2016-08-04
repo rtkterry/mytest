@@ -1,0 +1,1 @@
+include ':app', ':fragment', ':viewpager', ':donghua', ':addremove', ':donghua2', ':viewflipper', ':notification', ':http', ':mysql', ':mycontentprovider', ':getprovider_data', ':qq'

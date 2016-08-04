@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mysql</string>
+    <string name="create_table">新建数据库</string>
+    <string name="update_table">更新数据库</string>
+    <string name="insert">新增</string>
+    <string name="query">查询</string>
+    <string name="detect">删除</string>
+    <string name="change">修改</string>
+</resources>
