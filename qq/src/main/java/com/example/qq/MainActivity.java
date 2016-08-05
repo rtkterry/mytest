@@ -75,7 +75,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             case R.id.Bbtn:
                 savedata(edit.getText().toString(),send_right);
-                edit.setText("");
+				if(0)
+                edit.setText("xy");
                 break;
 
             case R.id.back:
